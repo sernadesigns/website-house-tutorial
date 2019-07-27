@@ -2,4 +2,4 @@
 
 Work in progress. Come back later to see what's been added.
 
-[Step 7: Moving In](transfer/)  
+[Step 7: Moving In](../transfer/)  

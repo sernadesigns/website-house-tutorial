@@ -2,4 +2,4 @@
 
 Work in progress. Come back later to see what's been added.
 
-[Step 3: Blueprints](architecture/)  
+[Step 3: Blueprints](../architecture/)  

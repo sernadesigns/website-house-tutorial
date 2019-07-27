@@ -2,4 +2,4 @@
 
 Work in progress. Come back later to see what's been added.
 
-[Step 6: Amenities and Features](javascript/)  
+[Step 6: Amenities and Features](../javascript/)  

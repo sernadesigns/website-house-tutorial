@@ -2,4 +2,4 @@
 
 Work in progress. Come back later to see what's been added.
 
-[Step 2: Rent or Buy?](hosting/)  
+[Step 2: Rent or Buy?](../hosting/)  

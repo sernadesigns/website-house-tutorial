@@ -11,4 +11,8 @@ Your website design should aid you in achieving administrative and/or business o
 
 _**Note:** Work in progress. Come back later to see what's been added._
 
-[Step 4: Framing](../html/)  
+<-- [Step 2: Home Address](../domain/)  
+
+Step 3: Blueprints  
+
+[Step 4: Framing](../html/) -->  

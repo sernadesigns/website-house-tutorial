@@ -30,7 +30,7 @@ If you want even more control, and you have the money to do it, you can own your
 ## Next Step
 After you have selected where your website will live, the next step is to determine the home address of your website.
 
-<-- [Home: Website House Tutorial](../)  
+<-- [Home: Website House Tutorial](../README.md)  
 
 Step 1: Renter, Buyer, or Landowner?  
 

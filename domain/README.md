@@ -27,7 +27,7 @@ Once you have selected and secured a domain name for your website, you'll want a
 ## Next Step
 Now that you have a spot for your website to live and an address and phonebook for people to find it, it is time to look at how websites are constructed.
 
-<-- [Step 1: Renter, Buyer, or Landowner?](hosting/)  
+<-- [Step 1: Renter, Buyer, or Landowner?](../hosting/)  
 
 Step 2: Home Address  
 

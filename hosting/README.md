@@ -16,8 +16,9 @@ In Shared Hosting, your website will live on a server with several other website
 Think of this like an apartment complex where you have a shared space for recreation and a community pool. Since you're renting, a lot of the maintenance is handled by the landowner.
 
 This is the cheapest option, but comes with some potential drawbacks. 
-- Suppose another website in the complex is having a party and the street gets jammed up with traffic. People traveling to your site will have a harder time getting there and their experience will be diminished. 
-- Suppose another website in the complex is engaged in some shady activity. This could cause that site, and every site on the server, to be "blacklisted", and therefore have resources blocked.
+- The more websites that share the same server, the more you will have to compete for the shared resources
+- If a website engages in some shady activity, or introduces a malicious script, it could affect every website around it
+- Security risks that enter the server can get the introducing website, and every website on the server, "blacklisted", and have some resources blocked
 
 ### Dedicated Hosting
 If you don't want to deal with some of the hassels of sharing resources and responsibility with other website owners, you may choose to rent an entire server all to yourself. This is called Dedicated Hosting, since the server is "dedicated" to you and your website's needs alone. This gives you complete control, but comes at a much higher price.

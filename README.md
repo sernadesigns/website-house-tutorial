@@ -12,5 +12,6 @@ I believe it is important to have a good mental model when you are learning some
 [Step 4: Framing](html/)  
 [Step 5: Decorating](css/)  
 [Step 6: Amenities and Features](javascript/)  
-[Step 7: Moving In](transfer/)  
-[Step 8: Housewarming](promotion/)
+[Step 7: Testing](testing/)  
+[Step 8: Moving In](transfer/)  
+[Step 9: Housewarming](promotion/)

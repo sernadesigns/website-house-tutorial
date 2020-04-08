@@ -6,4 +6,4 @@ _**Note:** Work in progress. Come back later to see what's been added._
 
 Step 6: Amenities and Features  
 
-[Step 7: Moving In](../transfer/) -->  
+[Step 7: Testing](../testing/) -->  
